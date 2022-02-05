@@ -57,10 +57,43 @@ Participation requirements included active participation based on preparation be
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation and contribution to the class process | 1/3 of the grade |
-| Written assignments and presentations |  {{< br >}}{{< br >}} 2/3 of the grade {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation and contribution to the class process
+{{< tdclose >}}
+{{< tdopen >}}
+1/3 of the grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignments and presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2/3 of the grade
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Participation and Contribution to the Class Process**
 
